@@ -1,0 +1,33 @@
+export default {
+  common: {
+    back: 'Back',
+    next: 'Next',
+    loading: 'Loading...',
+  },
+  auth: {
+    basicInfo: 'Basic Information',
+    organizationDetails: 'Organization Details',
+    organizationName: 'Organization Name',
+    organizationNamePlaceholder: 'Your organization',
+    email: 'Professional Email',
+    emailPlaceholder: 'email@organization.com',
+    password: 'Password',
+    passwordPlaceholder: '8 characters minimum',
+    confirmPassword: 'Confirm Password',
+    confirmPasswordPlaceholder: 'Confirm your password',
+    organizationSize: 'Organization Size',
+    industry: 'Industry',
+    industryPlaceholder: 'Ex: Industry, Services, etc.',
+    address: 'Address',
+    addressPlaceholder: 'Complete address',
+    gdprConsent: 'I accept the',
+    privacyPolicy: 'privacy policy',
+    creating: 'Creating account...',
+    createAccount: 'Create Account',
+    alreadyHaveAccount: 'Already have an account?',
+    signIn: 'Sign in',
+    registrationSuccess: 'Account created successfully! Check your email to confirm your registration.',
+    registrationError: 'An error occurred during registration',
+  },
+  // ... rest of the translations
+};
